@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MAT_Honey
+  m_Shader: {fileID: -6465566751694194690, guid: 7559d4ddec9246744996ce0f7145ae51, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_cf51691c744840528366492e894fca84:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxOcclusionMapping_e783f96370f34e02903e4b1a7da3a19b_Heightmap_2:
+        m_Texture: {fileID: 2800000, guid: f180b8c3863a28e49b52f4a3dc531748, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_1afca9fde79f40119d79d389e78e7510_Texture_1:
+        m_Texture: {fileID: 2800000, guid: a395f6407aa891a42b0189394d05f312, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_1dbc2ee6ae2044498bb70d1ad077c260_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 2f7182b952d33e145abf1c361657ad81, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_2372eee9cc0645d08879e95eff1944c0_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 9070e1277b61f54479f2f8b2cf020f3e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_aaec4b849e084fecbce0da54dc2e612f_Texture_1:
+        m_Texture: {fileID: 2800000, guid: f180b8c3863a28e49b52f4a3dc531748, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_f308b2a2eae84b349af46eb4bdda53cc_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 5f098468f3431ed46bf777e6ece05141, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_1158542311d240d28f288f7663a94c10: 0
+    - Vector1_71c313fcb94042e78e6898cf3603965e: 0
+    - Vector1_fda1cb96f2d44d83b2f2eb279b110ca1: 25
+    m_Colors:
+    - Color_3a4debbae29e4b1eb5a0310a6a6502c7: {r: 2.5395904, g: 2.5395904, b: 2.5395904, a: 0}
+    - Color_5d06d461afa845a59dce06d27d03d619: {r: 5.1519, g: 13.020124, b: 19.228926, a: 0}
+    - Vector2_d43acce438ee46d1a8d1b51ef6b779ea: {r: 0, g: 0.2, b: 0, a: 0}
+  m_BuildTextureStacks: []

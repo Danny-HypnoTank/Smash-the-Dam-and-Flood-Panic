@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GestnerMatt 5
+  m_Shader: {fileID: -6465566751694194690, guid: e59c27972363b9a4b9767c54a65fc092, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_b21790483acf467099a92132b6f50ee8: 1
+    - Vector1_03010a2a60ad45149cb847cb07319cf2: 10
+    - Vector1_1cf623c566d74d288020f61d66df6d75: 0.3
+    - Vector1_2a387d11177c4a04afeb3d8c7a2009b8: 1
+    - Vector1_367c416b3dc34b09b0c65a37cfe12e9f: 25
+    - Vector1_373eaa77b9bd4606aeb5f3821dd91df5: 3.29
+    - Vector1_4ba4ce0bfe3245878649e26b9525c455: 0.08
+    - Vector1_4dddb6e2b8e443b592ee65ce4b298e24: 56
+    - Vector1_5639be7af5034c8380be3d6d16e5688f: 0.22
+    - Vector1_6c2ef4c6936c43dcbd659c5a37bd2f23: 2.5
+    - Vector1_779e3dd9e883431aa5d8bf9e1c4b3490: 0
+    - Vector1_87b2e2e6b158484d807c838facc0d4d5: 0.88
+    - Vector1_bf3aff7e91384cd1a8a27a0267b25d36: 0
+    - Vector1_c91badd08b434e639adf62fc70623233: 26.46
+    - Vector1_dd401ed31bed439da2d1230cd0a2ce44: 0.22
+    - Vector1_eb277062332f4ae9805dddc33b780480: 12
+    - Vector1_eca386049a384c43b8db39d12dd9662a: 9
+    - Vector1_edf53debc3ed4b2fa007b28d67d3dcab: 0.06
+    - Vector1_f0dd7599915b4c2191503ec6cf1e5044: 9
+    - Vector1_f37a4bd4772a4abf9c8d582b88e90753: 2.5
+    - Vector1_f8b5b6ea6ef546e5b0c9817f2fd25154: 1
+    - _AlphaClip: 0
+    - _Blend: 0
+    - _BumpScale: 1
+    - _ClearCoatMask: 0
+    - _ClearCoatSmoothness: 0
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DetailAlbedoMapScale: 1
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _EnvironmentReflections: 1
+    - _GlossMapScale: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 0
+    - _Metallic: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.005
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _Smoothness: 0.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _WorkflowMode: 1
+    - _ZWrite: 1
+    - _amplitude1: 15
+    - _amplitude2: 0
+    - _amplitude3: 5
+    - _amplitude4: 5
+    - _depth: 65
+    - _desity: 120
+    - _gravity: 9
+    - _neighborDistance: 0
+    - _phase: 0
+    - _timeScale: 1
+    - timeMod: 5
+    m_Colors:
+    - Color_7ff98d07f6f04f278a2a879da1f41b2d: {r: 1, g: 1, b: 1, a: 1}
+    - Color_8bfdc50d9062418ca054fa809d9212e7: {r: 0.019607853, g: 0.6475103, b: 0.8509804, a: 0.7254902}
+    - Color_e4f09b8f95034e9f9b60b6fd8a92dc1e: {r: 0.19607843, g: 0.30588236, b: 0.34901962, a: 1}
+    - Color_eacf535a36634a1e889d674ec3ab1584: {r: 0.28235295, g: 0.3764706, b: 0.34509805, a: 0.68235296}
+    - Vector3_1: {r: 0.1, g: 0, b: 2.66, a: 0}
+    - Vector3_2: {r: 0.1, g: 0, b: 0, a: 0}
+    - Vector3_3: {r: 0.1, g: 0, b: 0, a: 0}
+    - Vector3_4d9f162abd2b4bdf9427cde908b2735c: {r: 0.05, g: 0, b: 0.07, a: 0}
+    - Vector3_9e944ae4fa1340c8be03041098119500: {r: 0.31, g: 0, b: 0.12, a: 0}
+    - Vector4_4faa0bba020b46a69a9b47ec80b6ada3: {r: 0.67, g: 0.43, b: 3, a: 4}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+    - _direction: {r: 0.1, g: 0, b: 0.63, a: 0}
+    - _direction1: {r: 0.1, g: 0, b: 0, a: 0}
+    - _direction2: {r: 0, g: 0, b: 0.1, a: 0}
+    - _direction3: {r: 0.05, g: 0, b: 0, a: 0}
+    - _direction4: {r: 0, g: 0, b: 0.05, a: 0}
+    - _timeScaled: {r: 1, g: 2, b: 3, a: 4}
+  m_BuildTextureStacks: []
+--- !u!114 &8240512056381074905
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 4
